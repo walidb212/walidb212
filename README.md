@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me :<br>🚀 18 y/o entrepreneur & AI student — been building stuff since I was a teenager.<br><br>🧠 Currently studying AI & Data for Business @ Eugenia School (Paris)<br><br>🔨 Building **Houset** (AI Home Staging SaaS) & shipped a **Voice-to-CRM pipeline for LVMH**<br><br>🌱 Also building **AI Garden** — an AI-powered system to grow & manage my own garden<br><br>💰 Selling on Amazon FBA for 2+ years & building an agentic tool to fully automate it<br><br>📈 Also building & growing on TikTok<br><br>🌍 Speaking 6 languages : FR 🇫🇷 | EN 🇬🇧 | IT 🇮🇹 | AR 🇲🇦 | JP 🇯🇵 | Berber<br><br>⚡ Fun fact : Made 2,000€ in 1.5 weeks flipping One Piece cards while chilling in Morocco
 
 
